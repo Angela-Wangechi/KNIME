@@ -1,7 +1,7 @@
 # KNIME Workflow
 This is a KNIME Workflow based on the CRISP-DM Framework
 # Purpose 
-The projest is aimed at applying the CRISP-DM frame work to train, evaluate, fine-tune the best model and deploy it to predict the Housing Prices.
+The project is aimed at applying the CRISP-DM frame work to train, evaluate, fine-tune the best model and deploy it to predict the Housing Prices.
 The main phases of this framework is;
 - Business Understanding
 - Data Understanding
@@ -16,4 +16,7 @@ The main phases of this framework is;
 - Linear regression Model
 - Decision Tree Model
 - Random Forest Model
-The workflow has been organized by grouping related nodes into metanodes and by using annotations to describe the metanodes.
+# Additional Information
+The workflow has been organized by grouping related nodes into metanodes.
+The metanodes capture the different phases of the CRISP-DM framework as well as the various models that have been trained.
+Different annotations have been used to provide brief descritions the metanodes.
