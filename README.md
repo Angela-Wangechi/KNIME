@@ -10,6 +10,8 @@ The main phases of this framework is;
 - Evaluation
 - Deployment
 # Screenshot of the workflow
+![image](https://user-images.githubusercontent.com/74657074/167305787-96c170a2-efc7-4430-b2a1-082b2d7ed004.png)
+
 # Models trained
 - Linear regression Model
 - Decision Tree Model
