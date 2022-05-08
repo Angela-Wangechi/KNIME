@@ -20,3 +20,6 @@ The main phases of this framework is;
 The workflow has been organized by grouping related nodes into metanodes.
 The metanodes capture the different phases of the CRISP-DM framework as well as the various models that have been trained.
 Different annotations have been used to provide brief descritions the metanodes.
+# Author Information
+- [Email](gachihi.angela@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/angela-gachihi/)
